@@ -1,2 +1,2 @@
 # My-portfolio
-My portfolio (draft)
+https://kristykov.github.io/My-portfolio/Portfolio/
